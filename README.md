@@ -18,8 +18,7 @@ This project analyzes service request trends and municipal spending in Ottawa us
 - **Natural Language Processing (TextBlob)**
 - **Data Visualization (Matplotlib, Seaborn)**
 
-## 🚀 **How to Run**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ottawa-budget-analysis.git
-   cd ottawa-budget-analysis
+## 🔗 Google Colab Notebook  
+🔍 Access the full notebook here:  
+[📄 Open My Colab Notebook](City_of_Ottawa_Budget_&_Spending_Analysis.ipynb) 
+## Google Colab Notebook  
